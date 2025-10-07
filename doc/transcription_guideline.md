@@ -22,7 +22,7 @@ The text is transcribed line per line, as in the original. Therefore, line break
 * Missing space between words: Add the space \-\> helpful for NLP : add an underscore (\_). In general, take the spaces as they are in the original.  
 * Superscripts are treated as normal letters: for instance an “o” upon a “w” is transcribed like this: hausfrawon (in this case, the superscript “o” has a phonetic value). Superscripts that stand for an abbreviation are also transcribed, for instance: “\[Millesimo|Mo\] cc lvi” for “Mo cc lvi”  
   For (Middle High/Early Modern) German: Two dots/accents over a vowel are rendered as an “e”, excl. two dots on the “y” which are used to recognize this specific letter.  
-* Symbol for illegible “$”. Can be used in the brackets too. one dollar sign for every letter you think there is: Certio$a (the correct word being “certiora”)  
+* Symbol for illegible "\$". Can be used in the brackets too. one dollar sign for every letter you think there is: Certio\$a (the correct word being “certiora”)  
 * Punctuation: Keep as near as possible to the original if this is reasonably feasible.. We are aware that this might be difficult for many charters, especially if you work on a scan and not the original. If it is not possible to apply the punctuation like it is in the original, it is preferable to ignore it completely.  
 * Capital letters: Keep it like the original. Here again, normalization can be done automatically, reconstructing the original not.  
 * If a word is split up over two lines, keep the separation and do not use a hyphen: “\[con|%\] (here comes the line break) \[ventus|vent\]” for conventus.  
